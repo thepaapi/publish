@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://thepaapi.github.io/publish/sitemap.xml
